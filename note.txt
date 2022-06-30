@@ -1,0 +1,7 @@
+1. features:
+- price
+- livingspace
+- number of rooms
+- address
+- type of real estate: Haus or Wohnung
+- images
